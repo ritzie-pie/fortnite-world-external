@@ -1,5 +1,5 @@
 # fortnite-world-external
-fortnite external with an extensive cache &amp; world esp
+fortnite external with an extensive cache & world esp
 
 this project may look like an familiar source, it is based off a based i made called project mop the floor. however this source is no longer a base xD. ps: to who ever leaked project mop da floor with no credits to me kys(keep yourself safe)
 if you are looking for a source to learn from to futher expand your knowledge you came to the right place, this is not a shitty base with 2 features
